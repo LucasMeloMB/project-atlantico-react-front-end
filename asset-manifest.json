@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/project-atlantico-react-front-end/static/css/main.f458c702.css",
+    "main.js": "/project-atlantico-react-front-end/static/js/main.c217dfc4.js",
+    "static/js/498.7d06ffd2.chunk.js": "/project-atlantico-react-front-end/static/js/498.7d06ffd2.chunk.js",
+    "static/js/703.fcc44406.chunk.js": "/project-atlantico-react-front-end/static/js/703.fcc44406.chunk.js",
+    "static/js/478.7a4ff108.chunk.js": "/project-atlantico-react-front-end/static/js/478.7a4ff108.chunk.js",
+    "static/media/planet-icon.png": "/project-atlantico-react-front-end/static/media/planet-icon.a9ee96e7bb3670e31bd4.png",
+    "index.html": "/project-atlantico-react-front-end/index.html",
+    "main.f458c702.css.map": "/project-atlantico-react-front-end/static/css/main.f458c702.css.map",
+    "main.c217dfc4.js.map": "/project-atlantico-react-front-end/static/js/main.c217dfc4.js.map",
+    "498.7d06ffd2.chunk.js.map": "/project-atlantico-react-front-end/static/js/498.7d06ffd2.chunk.js.map",
+    "703.fcc44406.chunk.js.map": "/project-atlantico-react-front-end/static/js/703.fcc44406.chunk.js.map",
+    "478.7a4ff108.chunk.js.map": "/project-atlantico-react-front-end/static/js/478.7a4ff108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f458c702.css",
+    "static/js/main.c217dfc4.js"
+  ]
+}
